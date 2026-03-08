@@ -10,7 +10,7 @@ stanza==1.8.2
 # SpaCy language models support
 spacy-transformers==1.3.5
 
-# NeuroBiber stylistic analysis
+# NeuroBiber rerquired libraries
 torch 
 transformers
 
